@@ -9,14 +9,13 @@ see example.go
 
 ## htevent 
 
- tiny event dispatcher, for binding msg and msn handler.
+ tiny event dispatcher, for binding msg and msg handler.
 
 ### usage 
 	See htevent/example.go
 
 
-
-#LICENSE
+##LICENSE
 [MIT](https://opensource.org/licenses/MIT "MIT")
 
 
