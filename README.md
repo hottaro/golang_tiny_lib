@@ -21,7 +21,7 @@ go get github.com/hottaro/golang_tiny_lib/htevent
 2. See htevent/example.go
 
 
-##LICENSE
+## LICENSE
 [MIT](https://opensource.org/licenses/MIT "MIT")
 
 
