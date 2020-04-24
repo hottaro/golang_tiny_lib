@@ -4,12 +4,15 @@ build the smallest tools lib for golang,
 
 to be continue...
 
+## example
+see example.go
+
 ## htevent 
 
  tiny event dispatcher, for binding msg and msn handler.
 
 ### usage 
-	See htevent/README.md
+	See htevent/example.go
 
 
 

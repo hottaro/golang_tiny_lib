@@ -1,15 +1,10 @@
-# tiny event dispatcher
-
-# example 
-
-```go
-package main 
+package htevent
 
 import (
 	"fmt"
 )
 
-func main() {
+func HTEvent_test() {
 
 	dispatcher := NewHTDispatcher()
 	dispatcher.On("msg0", func(i int){
@@ -26,15 +21,4 @@ func main() {
 	err = dispatcher.Handler("msg1", 0) // error
 	fmt.Println(err)
 }
-
-```
-
-# result
-
-```sh
-msg0 dispatch ok : 0
-msg2 event has not been defined yet.
-msg1 dispatch ok : str
-Argument Error. Args[0] expected string, but got int
-```
 
