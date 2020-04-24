@@ -12,7 +12,13 @@ see example.go
  tiny event dispatcher, for binding msg and msg handler.
 
 ### usage 
-	See htevent/example.go
+
+1. get pkg
+
+```powershell
+go get github.com/hottaro/golang_tiny_lib/htevent
+```
+2. See htevent/example.go
 
 
 ##LICENSE
