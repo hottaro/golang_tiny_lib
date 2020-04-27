@@ -20,6 +20,19 @@ go get github.com/hottaro/golang_tiny_lib/htevent
 ```
 2. See htevent/example.go
 
+## htlog
+
+1. get pkg
+
+   ```shell
+   go get github.com/hottaro/golang_tiny_lib/htlog
+   ```
+
+2. See htlog/example.go
+
+   
+
+## htdb
 
 ## LICENSE
 [MIT](https://opensource.org/licenses/MIT "MIT")
