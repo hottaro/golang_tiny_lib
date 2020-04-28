@@ -1,8 +1,8 @@
 package main 
 
 import (
-	"github.com/hottaro/htevent"
-	"github.com/hottaro/htlog"
+	"github.com/hottaro/golang_tiny_lib/htevent"
+	"github.com/hottaro/golang_tiny_lib/htlog"
 	"fmt"
 //	"./htevent"
 //	"./htlog"

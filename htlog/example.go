@@ -89,7 +89,7 @@ func HTLog_test() {
 		Warn("Warn", timeType)
 		Error("Error", timeType)
 		Emer("Emergency", timeType)
-//		os.Remove(file_name)
+		os.Remove(file_name)
 	}
 }
 
