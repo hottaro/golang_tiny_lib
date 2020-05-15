@@ -22,6 +22,8 @@ go get github.com/hottaro/golang_tiny_lib/htevent
 
 ## htlog
 
+ tiny logging models
+
 1. get pkg
 
    ```shell
@@ -29,10 +31,23 @@ go get github.com/hottaro/golang_tiny_lib/htevent
    ```
 
 2. See htlog/example.go
+  
 
-   
+## htfile
+
+tiny file handler, auto cut by hours, days or month.
 
 ## htdb
+
+ middleware for PostgreSQL, MySQL, SQLite and MongoDB, handling...
+
+## htcache
+
+middleware for cache, handling...
+
+## htlb 
+
+Load Balance, handling...
 
 ## LICENSE
 [MIT](https://opensource.org/licenses/MIT "MIT")
